@@ -1,4 +1,4 @@
-# Invoke<hr>
+# Invoke
 
 ### 기본 형태
 Invoke("호출할 함수", 초);
