@@ -16,7 +16,7 @@ error: 레퍼런스를 'https://github.com/lew0205/TIL.git'에 푸시하는데 �
 TIL을 푸시하던 중 이런 에러를 만났다.<br>
 
 ### 원인
-원인은 잘 모르겠다.<br>
+.gitignore이나 README.md때문에 발생한다는데 정확히는 잘 모르겠다.<br>
 다음에 알아보고 수정해야겠다.
 
 ### 해결방법
